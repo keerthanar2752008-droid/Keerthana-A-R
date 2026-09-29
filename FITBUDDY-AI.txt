@@ -1,0 +1,19 @@
+obal user.name "Unga Name"
+
+ogit init
+
+git add.
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com
+
+ggit add.
+
+git commit -m "enna maathineenga nu sı
+
+ggit clone https://github.com/USERNAME
+
+git pullit pushit push -u origin mainbal user.email "unga email@gmail.com"
